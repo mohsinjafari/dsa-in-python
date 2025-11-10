@@ -11,6 +11,9 @@ Features:
 - size: return number of elements
 - clear: remove all elements
 - __iter__, __len__, and __repr__ support
+
+Author: Mohsin Jafari
+GitHub: https://github.com/mohsinjafari
 """
 
 class Node:

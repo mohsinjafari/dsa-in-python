@@ -1,4 +1,8 @@
-"""Implementation of a Queue data structure using a doubly linked list in Python."""
+"""Implementation of a Queue data structure using a doubly linked list in Python.
+
+Author: Mohsin Jafari
+GitHub: https://github.com/mohsinjafari
+"""
 
 class Node:
     """A node in a doubly linked list."""

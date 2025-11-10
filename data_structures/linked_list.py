@@ -13,6 +13,9 @@ Features:
 - Clear and check empty
 - Iterable, indexable, comparable
 - Convert to Python list
+
+Author: Mohsin Jafari
+GitHub: https://github.com/mohsinjafari
 """
 
 class Node:
