@@ -1,5 +1,5 @@
 """
-graph_routes_weighted.py
+prims_algorithm.py
 ------------------------
 A weighted graph implementation with Prim's algorithm to find
 the Minimum Spanning Tree (MST) of a weighted undirected graph.
